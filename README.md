@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Saad Islam Omy  
 
-🚀 **Backend Developer (Java | Golang | Spring Boot | AWS | Docker)**  
+🚀 **Backend Developer (Javascript | Golang | Nodejs | AWS | Docker)**  
 
 I’m a passionate software engineer with over **2 years of experience** in designing and developing **scalable, secure, and high-performance backend systems**.  
 I love building impactful products, solving real-world problems through technology, and continuously exploring new tools and architectures.
@@ -9,11 +9,11 @@ I love building impactful products, solving real-world problems through technolo
 
 ### 🧠 Tech Stack
 
-- **Backend:** Java 8+, Spring Boot, Hibernate, RESTful APIs, Microservices, Golang 
+- **Backend:** Javascript, Express-js, RESTful APIs, Microservices, Golang 
 - **Database:** PostgreSQL, MySQL, Oracle SQL, Redis (familiar)
 - **DevOps:** Docker, GitHub Actions (CI/CD), Kubernetes (basic)
 - **Cloud:** AWS, GCP (familiar)
-- **Build Tools:** Maven, Gradle
+- **Build Tools:** Npm, Maven, Gradle
 - **Version Control:** Git, GitHub
 - **Servers:** Tomcat
 - **OS:** Linux, macOS, Windows
