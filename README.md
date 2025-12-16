@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Saad Islam Omy  
 
-🚀 **Backend Developer (Javascript | Golang | Nodejs | AWS | Docker)**  
+Backend Engineer | JavaScript • Golang • Node.js • AWS • Docker
 
 I’m a passionate software engineer with over **2 years of experience** in designing and developing **scalable, secure, and high-performance backend systems**.  
 I love building impactful products, solving real-world problems through technology, and continuously exploring new tools and architectures.
@@ -43,6 +43,6 @@ I love building impactful products, solving real-world problems through technolo
 
 ---
 
-🛠️ *Currently learning and building side projects in Golang to enhance system scalability and concurrency handling.*
+🛠️ Currently deepening expertise in system design, architecting backend systems in Golang with a focus on scalable, concurrent, and maintainable architectures.
 
 _Last updated: 25/10/2025_
