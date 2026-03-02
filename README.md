@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Saad Islam Omy  
 
-Software Engineer | JavaScript • Golang • Node.js • AWS • Docker
+Software Engineer | JavaScript • Golang • Python • AWS • Docker
 
 I’m a passionate software engineer with over **2 years of experience** in designing and developing **scalable, secure, and high-performance backend systems**.  
 I love building impactful products, solving real-world problems through technology, and continuously exploring new tools and architectures.
@@ -9,7 +9,7 @@ I love building impactful products, solving real-world problems through technolo
 
 ### 🧠 Tech Stack
 
-- **Backend:** Javascript, Express-js, RESTful APIs, Microservices, Golang 
+- **Backend:** Golang , Python, Javascript, Express-js, RESTful APIs, Microservices
 - **Database:** PostgreSQL, MySQL, Oracle SQL, Redis (familiar)
 - **DevOps:** Docker, GitHub Actions (CI/CD), Kubernetes (basic)
 - **Cloud:** AWS, GCP (familiar)
