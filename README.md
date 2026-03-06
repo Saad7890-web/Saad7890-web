@@ -28,13 +28,7 @@ I love building impactful products, solving real-world problems through technolo
 
 ---
 
-### 🏆 Competitive Programming
-- **Codeforces Expert (Rating 1713)**  
-- Solved **3000+ problems** across multiple online judges  
-- Ranked **54th worldwide** in Codeforces Round 1049 (Div. 2)  
-- Ranked **3rd nationally** in AtCoder Round 205 (Div. 2)  
 
----
 
 ### 📫 Connect with Me
 - **GitHub:** [github.com/Saad7890-web](https://github.com/Saad7890-web)  
