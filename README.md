@@ -38,7 +38,7 @@ I love building impactful products, solving real-world problems through technolo
 
 ### 📫 Connect with Me
 - **GitHub:** [github.com/Saad7890-web](https://github.com/Saad7890-web)  
-- **Codeforces:** [codeforces.com/profile/saadislam](https://codeforces.com/profile/saadislam)  
+  
 - **LinkedIn:** www.linkedin.com/in/saad-islam-omy-8552a1375
 
 ---
